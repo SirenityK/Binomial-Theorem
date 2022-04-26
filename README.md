@@ -5,7 +5,7 @@ It supports decimal value and negative input in the binomial. 'n' cannot be nega
 
 Binomial theorem (with multipliers added in) is defined by this formula I made:
 
-![](Image.png | width=500)
+![](Image.png)
 
 # Limitations
 
