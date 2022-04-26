@@ -9,8 +9,8 @@ Binomial theorem (with multipliers added in) is defined by this formula I made:
 
 # Limitations
 
-> Exponent cannot be greater than 1030 due to large divisions in float numbers.
-> Exponent cannot be very big if you introduce float numbers (decimal point) due the same reason.
+- Exponent cannot be greater than 1030 due to large divisions in float numbers.
+- Exponent cannot be very big if you introduce float numbers (decimal point) due the same reason.
 
 # Motivations
 
