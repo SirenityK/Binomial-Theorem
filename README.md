@@ -1,6 +1,6 @@
 # Binomial Theorem
 
-This program develops any binomial to his extended form.
+This program develops any powered binomial to his extended form.
 It supports decimal value and negative input in the binomial. 'n' cannot be negative or decimal because of what the theorem says.
 
 Binomial theorem (with multipliers added in) is defined by this formula I made:
