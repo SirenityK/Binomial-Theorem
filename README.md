@@ -3,9 +3,20 @@
 This program develops any powered binomial to his extended form.
 It supports decimal value and negative input in the binomial. 'n' cannot be negative or decimal because of what the theorem says.
 
-Binomial theorem (with multipliers added in) is defined by this formula I made:
-
-![](Image.png)
+Binomial theorem (with multipliers added in) is defined by this formula I made:<br>
+```math
+\begin{equation}
+\begin{aligned}
+& \sum_{k=1}^n\left(\begin{array}{l}
+n \\
+k
+\end{array}\right) x^{n-k} y^k a^{n-k} b^k \\
+& x, y=\text { Integers } \\
+& a, b=\text { algebra letters }
+\end{aligned}
+\end{equation}
+```
+<!-- ![](Image.png) -->
 
 # Limitations
 
